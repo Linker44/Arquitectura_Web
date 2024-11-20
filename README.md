@@ -1,6 +1,6 @@
 # Dentro de frontend/todolist
 
-## `npm install`
+### `npm install`
 
 Instalara todos los paquetes necesarios.
 
